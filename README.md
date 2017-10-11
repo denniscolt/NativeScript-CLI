@@ -46,6 +46,8 @@ tns run ios --emulator
 
 [.gitignore](.gitignore)
 
+Optional configs for vscode users:
+
 [.vscode/settings.json](.vscode/settings.json)
 
 [.vscode/launch.json](.vscode/launch.json)
