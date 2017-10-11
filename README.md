@@ -35,11 +35,25 @@ On Device
 tns run android
 tns run ios
 ```
+
 On Simulator
 ```
 tns run android --emulator
 tns run ios --emulator
 ```
 
+### Create config files before git commit
 
+[.gitignore](.gitignore)
+
+[.vscode/settings.json](.vscode/settings.json)
+
+[.vscode/launch.json](.vscode/launch.json)
+
+### Initial Git commit
+```
+git init
+git add .
+git commit -m "Initial Setup"
+```
 
